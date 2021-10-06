@@ -9,6 +9,7 @@ public class CostumeServerApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CostumeServerApplication.class, args);
 		System.out.println("hello word desde oracle");
+		System.out.println("hola despues del pull");
 
 	}
 
